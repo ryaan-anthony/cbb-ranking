@@ -1,0 +1,3 @@
+sports_radar:
+  api_key: xxxxxxx
+  host: https://api.sportradar.us/
